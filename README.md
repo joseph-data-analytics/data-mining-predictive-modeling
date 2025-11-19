@@ -4,11 +4,11 @@ This project is based on coursework from **MSIS 672 – Data Mining** at the Uni
 
 ## 📌 Objective
 
-Apply data mining techniques to real-world datasets using:
+Apply data mining and machine learning techniques to real datasets through:
 
 - Classification
 - Clustering
-- Association rule mining
+- Predictive modeling
 - Feature engineering
 - Model evaluation
 
@@ -19,21 +19,13 @@ Apply data mining techniques to real-world datasets using:
 - Pandas, NumPy, scikit-learn
 - Matplotlib / Seaborn
 
-## ✅ Methods
-
-- Supervised learning (classification, regression)
-- Unsupervised learning (clustering)
-- Data cleaning and preprocessing
-- Feature selection and transformation
-- Train/test split, model evaluation
-
-## 📂 Repository Structure (planned)
+## 📂 Planned Repository Structure
 
 - `notebooks/` – Jupyter notebooks for EDA and modeling  
-- `data/` – Sample or synthetic datasets (no private data)  
-- `models/` – Saved model artifacts (if applicable)  
-- `reports/` – Summary of results and findings  
+- `data/` – Sample datasets (synthetic or publicly allowed)  
+- `models/` – Saved model files (optional)  
+- `reports/` – Summary of project findings  
 
 ## 🔍 Key Skills
 
-Python, Data Mining, Machine Learning (basic), Data Cleaning, Feature Engineering, Model Evaluation
+Python, Data Mining, Predictive Modeling, Data Cleaning, Feature Engineering, Model Evaluation
