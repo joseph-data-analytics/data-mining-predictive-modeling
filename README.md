@@ -1,6 +1,3 @@
-# data-mining-predictive-modeling
-Data mining and machine learning models (classification, clustering, predictive modeling) from MSIS 672.
-
 # Data Mining & Predictive Modeling
 
 This project is based on coursework from **MSIS 672 – Data Mining** at the University of Massachusetts Boston.
